@@ -1,2 +1,2 @@
 # -Simulation-and-Performance-Evaluation-of-a-Folded-Cascode-Op-Amp-in-eSim-Environment-
-Here’s a concise **350-character GitHub description** for your project:  > Design and simulation of a Folded Cascode CMOS Op-Amp using eSim–Ngspice. The project demonstrates high gain, wide output swing, and stable frequency response, including schematics, simulation results, and analysis for analog signal processing applications.
+Design and simulation of a Folded Cascode CMOS Op-Amp using eSim–Ngspice. The project demonstrates high gain, wide output swing, and stable frequency response, including schematics, simulation results, and analysis for analog signal processing applications.
